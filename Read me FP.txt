@@ -1,0 +1,16 @@
+Ordering from a Resturant 
+This is a simple way to order in a resturant in python. 
+
+To intstall this download the python code
+
+How to Use this
+When running it the first window will collect your name and in the second window select your order.
+
+Contributing
+Contributions are welcome to this and if you find bugs please put them in here
+
+license 
+This code is licensed Under the MT License 
+
+Acknowledgments 
+This implentation of ordering from a Resturant was created by Keagan Centeno.
